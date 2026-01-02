@@ -1,0 +1,16 @@
+{
+  "webcredentials": {
+    "apps": [
+      "2T95U247C9.com.brewer.hidhop"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2T95U247C9.com.brewer.hidhop",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
